@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  background: repeating-linear-gradient(45deg, #cff6cf 10%, #ff9595 20%, #e5cfe5 30%, #f6def6 10%);
+}
+h1, h2, h3, h4, h5, h6 {
+  text-decoration: underline;
+}
+h1 {
+  font-size: 2.2vw;
+}
+p {
+  font-size: 1.3vw;
+}
+
+h2 {
+  font-size: 1.6vw;
+}
+
+.Table {
+  margin: 4% 40%;
+}
+
+.title-img {
+  height: 15%;
+  width: 15%;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+}
+.list {
+  text-align: left;
+  font-size: 1.3vw;
+  margin: 4% 36%;
+}
+table, td, tr, th {
+  font-size: 1.3vw;
+
+}
+
+td, th {
+  padding: 2%;
+  border: 1px solid red;
+}
+img {
+  height: 10%;
+  width: 10%;
+  border-radius: 20%;
+  box-shadow: -4px 4px 5px 6px #000000,
+               4px -4px 5px 6px #323232;
+}
